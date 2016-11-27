@@ -1,0 +1,14 @@
+http://www.jsoneditoronline.org/  : Link for online json editor
+
+
+1) http://api.androidhive.info/contacts/
+
+2) http://androidexample.com/media/webservice/JsonReturn.php
+
+3) http://demos.tricksofit.com/files/json2.php
+
+4) http://cricapi.com/api/playerStats?pid=253802 (must and should parse this api)
+
+Note : for 4th api take help of online json editor(http://www.jsoneditoronline.org/) there are many JSON object and JSON array please do that
+
+Note : http://www.cricapi.com/players/ (Check this link to get api for different players)
